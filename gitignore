@@ -1,0 +1,89 @@
+# -----------------------------
+
+# Python cache / compiled files
+
+# -----------------------------
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# -----------------------------
+
+# Virtual environments
+
+# -----------------------------
+
+venv/
+env/
+ENV/
+.venv/
+
+# -----------------------------
+
+# IDE / Editor files
+
+# -----------------------------
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# -----------------------------
+
+# Logs
+
+# -----------------------------
+
+logs/
+*.log
+
+# -----------------------------
+
+# Output / generated reports
+
+# -----------------------------
+
+inventory_reconciliation.csv
+category_summary.csv
+data_quality_report.json
+sales_dashboard.html
+sales_summary.json
+
+# -----------------------------
+
+# OS files
+
+# -----------------------------
+
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+
+# Test / coverage
+
+# -----------------------------
+
+.coverage
+htmlcov/
+.pytest_cache/
+
+# -----------------------------
+
+# Package / build files
+
+# -----------------------------
+
+build/
+dist/
+*.egg-info/
+
+# -----------------------------
+
+# Environment variables
+
+# -----------------------------
+
+.env

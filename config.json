@@ -1,0 +1,5 @@
+{
+  "inventory_file": "data/inventory.csv",
+  "sales_file": "data/sales_transactions.csv",
+  "log_file": "logs/inventory.log"
+}
